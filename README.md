@@ -1,7 +1,7 @@
 # ProjectIdeas
 
 ## AntiMosquitoAirDefenceSystem
-These devices tracks mosquitos, but laser is dangerous. 
+These devices tracks mosquitos, but laser is dangerous.  
 https://bzigo.com/  
 https://github.com/Ildaron/Laser_control  
 indiegogo.com/projects/worlds-first-portable-mosquito-air-defense  

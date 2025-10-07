@@ -2,9 +2,9 @@
 
 ## AntiMosquitoAirDefenceSystem
 These devices tracks mosquitos, but laser is dangerous. 
-https://bzigo.com/
-https://github.com/Ildaron/Laser_control
-indiegogo.com/projects/worlds-first-portable-mosquito-air-defense
+https://bzigo.com/  
+https://github.com/Ildaron/Laser_control  
+indiegogo.com/projects/worlds-first-portable-mosquito-air-defense  
 
 Solutions:  
 . Use several visible light sources to track the mosquito for a prolonged duration. The combined intensity injuries the mosquito but humans and animals have sufficient time to look away.  
